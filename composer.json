@@ -1,0 +1,11 @@
+{
+    "name": "Inpassor/yii-EAssetManager",
+    "description": "Yii on the fly less asset converter",
+    "version": "0.3.0",
+    "autoload": {
+        "files": ["EAssetManager.php"]
+    },
+    "require": {
+		    "oyejorge/less.php": "dev-master"
+    }
+}
